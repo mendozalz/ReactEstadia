@@ -26,7 +26,7 @@ React-router-dom, React Form, el uso de Watch y manipulación para impresión o 
 </p>
 
 
-Ver en [Vercel](https://react-travel-brown.vercel.app/)
+Ver en [Vercel](https://react-estadia.vercel.app/home)
 
 
 
