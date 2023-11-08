@@ -1,6 +1,6 @@
 # React Estadia
 
-Proyecto Reac estadis como parte del aprendizaje en el uso de: 
+Proyecto Reac estadia como parte del aprendizaje en el uso de: 
 React-router-dom, React Form, el uso de Watch y manipulación para impresión o descarga de  documcumento PDF.
 
 ### **Manejo de errores**
@@ -19,7 +19,7 @@ React-router-dom, React Form, el uso de Watch y manipulación para impresión o 
   <img src="public\re-3.gif" alt="Proyecto Travel" />
 </p>
 
-<center><b> MAnipulación para impresión y descarga PDF</b></center>
+<center><b> Manipulación para impresión y descarga PDF</b></center>
 <p align="center">
   <img src="public\re-4.png" alt="Proyecto Travel" />
   <img src="public\re-5.png" alt="Proyecto Travel" />
