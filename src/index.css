@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #e9e9e9;
+
+}
+
+#root{
+  margin: 0 auto;
+  padding: 15px;
+  height: 100%;
+}
+
+@media print{
+  .contenedor.grid.grid-cols-1.w-\[50\%\].m-auto {
+    width: 80%;
+}
+  .flex.gap-2.btn-imprimir {
+    display: none;
+  }
+  .orden.Nombre {
+    grid-row: 2;
+}
+.orden.Nombre dd.text-gray-700.sm\:col-span-2{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.orden dd{
+  font-size: 20px;
+  margin-top: 10px;
+font-weight: 600;
+}
+.orden{
+  border: none;
+  box-shadow: none;
+  margin: 0;
+}
+.grid.grid-cols-1.gap-1.p-3.sm\:gap-4 {
+  gap: 0;
+}
+.mt-8 {
+  position: absolute;
+  top: 150px;
+  right: 40px;
+}
+}
