@@ -1,6 +1,6 @@
 # React Estadia
 
-Proyecto Reac estadia como parte del aprendizaje en el uso de: 
+Proyecto React estadia como parte del aprendizaje en el uso de: 
 React-router-dom, React Form, el uso de Watch y manipulación para impresión o descarga de  documcumento PDF.
 
 ### **Manejo de errores**
